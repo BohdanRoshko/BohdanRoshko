@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full stack developer. My main focus is on the backend. My main stack is based on .net technologies and relational databases such as SQL Server and Oracle. As part of my work, I have experience in optimising SQL queries using tools such as SQL Profiler and SQL Tuning Advisor. I also have experience with Angular and Aurelia frontend frameworks. As far as experience goes, I usually add and maintain new features such as integrating a payment system like Stripe or protecting a site with Google Captcha. 
+I am a full stack developer. My main focus is on the backend. My main stack is based on .net technologies and relational databases such as SQL Server and Oracle. As part of my work, I have experience in optimising SQL queries using tools such as SQL Profiler and SQL Tuning Advisor. I also have experience with Angular and Aurelia frontend frameworks.
 
 
 ## 🌐 Socials:
